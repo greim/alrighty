@@ -2,6 +2,7 @@
   "name": "alrighty",
   "version": "1.0.0",
   "description": "Kick off your promise chains with flamboyant confidence",
+  "repository": "https://github.com/greim/alrighty",
   "main": "index.js",
   "author": "Greg Reimer <gregreimer@gmail.com>",
   "license": "WTFPL",

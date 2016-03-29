@@ -1,0 +1,14 @@
+{
+  "name": "alrighty",
+  "version": "1.0.0",
+  "description": "Kick off your promise chains with flamboyant confidence",
+  "main": "index.js",
+  "author": "Greg Reimer <gregreimer@gmail.com>",
+  "license": "WTFPL",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
